@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**dpfernandes/dpfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a product and project manager based in Denmark who loves creating digital solutions for real life problems (even if the are made up :smiley:) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background consists of a blend between IT and Management and I have worked in several industries as Telco, EdTech, SaaS and IT Consultancy.
+
+## What am I exploring right now?
+
+- Agentic AI solutions :computer:
+- Online portfolios :star2:
+- Agile, Scrum, CSPO :books:
+
+## How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/danielapfernandes/)
+- [Online-Portfolio](https://v0-portfolio-two-rho-12.vercel.app/)
+- [Email](mailto:daniel.pastor.fernandes@gmail.com)
+
