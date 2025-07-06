@@ -14,6 +14,6 @@ My background consists of a blend between IT and Management and I have worked in
 
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/danielapfernandes/)
-- [Online-Portfolio](https://v0-portfolio-two-rho-12.vercel.app/)
+- [Online-Portfolio](http://danielpastorfernandes.tech/)
 - [Email](mailto:daniel.pastor.fernandes@gmail.com)
 
